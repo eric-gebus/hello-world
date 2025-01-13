@@ -1,4 +1,6 @@
 TEST
+TEST
 Did that wooork?
 test test test
+diff test
 diff test
